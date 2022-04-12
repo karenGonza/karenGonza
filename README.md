@@ -1,4 +1,4 @@
-# Hola soy Karen Daiana Gonzalez <img src="https://www.gifsanimados.org/data/media/56/computadora-y-ordenador-imagen-animada-0003.gif" width="25px">
+# Hola soy Karen Daiana Gonzalez <img src="https://www.gifsanimados.org/data/media/56/computadora-y-ordenador-imagen-animada-0003.gif" width="300px">
 
 ## Un poco sobre mí 👱‍♀️ 
 
