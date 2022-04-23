@@ -1,0 +1,43 @@
+.card {
+    left: 20%;
+    position: absolute;
+    width: 250px;
+    text-align: center;
+    font-size: 19px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 130px;
+    background-color: #151515;
+    color: rgb(214, 91, 171);
+    border: 6px solid;
+    border-image: linear-gradient(#ff512f, #dd2476, #1c64ff, rgb(31, 123, 123)) 1;
+    animation: rotate 1.8s ease-in infinite;
+}
+
+#email {
+    justify-content: center;
+    display: flex;
+   
+    margin: 16%;
+}
+
+@keyframes rotate {
+    50% {
+        border-image: linear-gradient(460deg, #ff512f, #dd2476, #1c64ff,  rgb(31, 123, 123)) 1;
+    }
+}
+
+.WhatsApp {
+    left: 45%;
+   
+    position: absolute;
+    width: 250px;
+    text-align: center;
+    font-size: 19px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 130px;
+    background-color: #151515;
+    color: rgb(214, 91, 171);
+    border: 6px solid;
+    border-image: linear-gradient(#ff512f, #dd2476, #1c64ff, rgb(31, 123, 123)) 1;
+    animation: rotate 1.8s ease-in infinite;
+}
