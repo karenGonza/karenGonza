@@ -8,12 +8,9 @@
 <a href="https://https://github.com/karenGonza"><img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karenGonza&layout=compact&langs_count=7&theme=dracula"/>
 <img height="250em" src="https://github-readme-stats.vercel.app/api?username=karenGonza&show_icons=true&theme=radical"/>
 
-<div> 
-   <a href="karengonza2001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a> 
-
-  <a href="+541134161802" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-</div>
 
 <div>
-<a href="karengonza2001@gmail.com"> <img src="https://media4.giphy.com/media/F8PPfi2Vk1MKs5OSM9/giphy.gif?cid=790b761117aeaf3c58cc21ddd763893529eda7617095b465&rid=giphy.gif&ct=g"></img> </a> 
+<a href="karengonza2001@gmail.com"> <img src="https://media2.giphy.com/media/XADHVqMpxhtA7AqvYi/200.gif"></img> </a> 
+
+<a> <img src="https://media0.giphy.com/media/GzBLS3BvlH6pCQ3uVo/giphy.gif"></img> </a>
 </div>
