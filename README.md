@@ -14,6 +14,5 @@
   <a href="+541134161802" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
-<div>
-<img src="https://files.fm/embed/playerv2?hash=a53j79bzc&autoplay=off&autoload=off&w=100%&h=auto&poster_src=https://files.fm/thumb_video_picture.php?i=a53j79bzc" id="filesfm_embed_js__a53j79bzc">
-</div>
+
+<img src="https://files.fm/f/a53j79bzc"> 
