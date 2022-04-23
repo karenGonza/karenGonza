@@ -15,5 +15,5 @@
 </div>
 
 <div>
-<script type="text/javascript" src="https://files.fm/embed/playerv2?hash=a53j79bzc&autoplay=off&autoload=off&w=100%&h=auto&poster_src=https://files.fm/thumb_video_picture.php?i=a53j79bzc" id="filesfm_embed_js__a53j79bzc"></script>
+<img src="https://files.fm/embed/playerv2?hash=a53j79bzc&autoplay=off&autoload=off&w=100%&h=auto&poster_src=https://files.fm/thumb_video_picture.php?i=a53j79bzc" id="filesfm_embed_js__a53j79bzc">
 </div>
