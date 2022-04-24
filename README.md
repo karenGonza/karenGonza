@@ -10,7 +10,7 @@
 
 
 <div>
-<a href="karengonza2001@gmail.com"> <img src="https://media2.giphy.com/media/XADHVqMpxhtA7AqvYi/200.gif"></img> </a> 
+<a href="karengonza2001@gmail.com"> <img src="https://media0.giphy.com/media/zcKVAMcwm5qIKzetNo/giphy.gif"></img> </a> 
 
 <a> <img src="https://media0.giphy.com/media/GzBLS3BvlH6pCQ3uVo/giphy.gif"></img> </a>
 </div>
