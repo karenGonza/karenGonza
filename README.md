@@ -1,4 +1,4 @@
-# <img src="https://media.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" width="250px"> Hola soy Karen Daiana Gonzalez <img src="https://www.gifsanimados.org/data/media/56/computadora-y-ordenador-imagen-animada-0003.gif" width="250px">
+# <img src="https://media.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" width="200px"> Hola soy Karen Daiana Gonzalez <img src="https://www.gifsanimados.org/data/media/56/computadora-y-ordenador-imagen-animada-0003.gif" width="200px">
 
 ## Un poco sobre mí 👱‍♀️ 
 
